@@ -1,4 +1,4 @@
-# Lab 11: Networking with Sockets
+# Lab 8: Networking with Sockets
 
 In this lab you'll get more familiar with using sockets to send messages between a client and server. Sample code has been provided for you.
 
