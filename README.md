@@ -1,4 +1,4 @@
-# Lab 8: Networking with Sockets
+# Socket Chat
 
 In this lab you'll get more familiar with using sockets to send messages between a client and server. Sample code has been provided for you.
 
